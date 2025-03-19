@@ -36,10 +36,3 @@ The **Book Recommendation System** is a Python-based command-line application th
 
 4. **`README.md`**: This file, which provides an overview of the project, its features, and instructions for use.
 
----
-
-## **How to Use**
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/waqar20/book-recommendation-system.git
-   cd book-recommendation-system
